@@ -5,7 +5,9 @@
 
 <Method name="A">
 <ClassMethod>1</ClassMethod>
-<Implementation><![CDATA[	w 1
+<Implementation><![CDATA[
+	w 1
+	w 2
 ]]></Implementation>
 </Method>
 </Class>
