@@ -5,6 +5,8 @@
 
 <Method name="A">
 <ClassMethod>1</ClassMethod>
+<Implementation><![CDATA[	w 1
+]]></Implementation>
 </Method>
 </Class>
 </Export>
